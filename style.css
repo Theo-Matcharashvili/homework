@@ -60,3 +60,10 @@ p {
 	background-color: #0A22F4;
 	border-radius: 28px;
 }
+footer {
+	text-align: right;
+	background-color: #0A22F4;
+}
+.footer1 {
+	margin-left: auto;
+}
